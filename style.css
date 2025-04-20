@@ -91,7 +91,7 @@ input{
 #type2:checked~#link2 li,
 #type3:checked~#link3 li,
 #type4:checked~#link4 li{
-    height: 6px;
+    height: 65px;
     opacity: 1;
     padding-top: 15px;
 }
